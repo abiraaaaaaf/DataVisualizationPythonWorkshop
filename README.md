@@ -1,4 +1,4 @@
-# PythonWorkshop4
+# Data Visualization
  
 Data Visualization workshops are organized by the Big Data Society, Macquarie University from 2022.
 
