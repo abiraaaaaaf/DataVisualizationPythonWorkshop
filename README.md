@@ -1,4 +1,4 @@
-# Data Visualization
+# Data Visualization Basics
  
 Data Visualization Workshop (Basics) is organized by the Big Data Society, Macquarie University from 2022.
 
